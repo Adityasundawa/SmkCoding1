@@ -20,33 +20,46 @@
             android:textSize="25dp"/>
 
         <EditText
+            android:id="@+id/edit_nama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Nama"
             android:layout_margin="20dp"/>
         <Spinner
+            android:id="@+id/spinner_gender"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="20dp"
             android:entries="@array/jenis_kelamin"
             />
         <EditText
+            android:id="@+id/edit_umur"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Umur"
+            android:inputType="number"
+            android:layout_margin="20dp"/>
+        <EditText
+            android:id="@+id/edit_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Email"
             android:layout_margin="20dp"/>
         <EditText
+            android:id="@+id/edit_telpon"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Telpon"
             android:inputType="phone"
             android:layout_margin="20dp"/>
         <EditText
+            android:id="@+id/edit_alamat"
             android:layout_width="match_parent"
             android:layout_height="120dp"
             android:hint="Alamat"
             android:layout_margin="20dp"/>
         <Button
+            android:id="@+id/btnSimpan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="20dp"

@@ -643,6 +643,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable person
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -677,8 +678,10 @@ id always
 id async
 id barrier
 id beginning
+id biodata
 id blocking
 id bottom
+id btnSimpan
 id buttonPanel
 id center
 id center_horizontal
@@ -698,7 +701,12 @@ id default_activity_button
 id dimensions
 id direct
 id disableHome
+id edit_alamat
+id edit_email
+id edit_nama
 id edit_query
+id edit_telpon
+id edit_umur
 id end
 id expand_activities_button
 id expanded_menu
@@ -715,6 +723,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id img_foto
 id info
 id invisible
 id italic
@@ -762,6 +771,7 @@ id showCustom
 id showHome
 id showTitle
 id spacer
+id spinner_gender
 id split_action_bar
 id spread
 id spread_inside
@@ -780,6 +790,12 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id text_alamat
+id text_email
+id text_gender
+id text_nama
+id text_telpon
+id text_umur
 id time
 id title
 id titleDividerNoCustom
@@ -826,6 +842,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_profile
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

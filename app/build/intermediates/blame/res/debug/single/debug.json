@@ -8,6 +8,22 @@
         "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_person.png.flat",
+        "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\drawable-xxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_person.xml.flat",
+        "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\drawable-anydpi\\person.xml"
+    },
+    {
+        "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_person.png.flat",
+        "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\drawable-mdpi\\person.png"
+    },
+    {
         "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
@@ -28,6 +44,10 @@
         "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_person.png.flat",
+        "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\drawable-hdpi\\person.png"
+    },
+    {
         "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
@@ -46,6 +66,10 @@
     {
         "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_person.png.flat",
+        "source": "C:\\SMKCODING\\SmkCoding1\\app\\src\\main\\res\\drawable-xhdpi\\person.png"
     },
     {
         "merged": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",

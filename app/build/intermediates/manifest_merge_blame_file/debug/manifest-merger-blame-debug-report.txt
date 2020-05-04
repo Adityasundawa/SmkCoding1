@@ -11,7 +11,7 @@
 9-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:5:5-19:19
+11-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:5:5-20:19
 12        android:allowBackup="true"
 12-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,20 +28,23 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.adityasundawa.id.MainActivity" >
-21-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:12:9-18:20
-21-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:12:19-47
-22            <intent-filter>
-22-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:14:17-69
-23-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:16:17-77
-25-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28    </application>
-29
-30</manifest>
+21        <activity android:name="com.adityasundawa.id.ProfileActivity" />
+21-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:12:9-62
+21-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:12:19-50
+22        <activity android:name="com.adityasundawa.id.MainActivity" >
+22-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:13:9-19:20
+22-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:13:19-47
+23            <intent-filter>
+23-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:14:13-18:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:15:17-69
+24-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:15:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:17:17-77
+26-->C:\SMKCODING\SmkCoding1\app\src\main\AndroidManifest.xml:17:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>
