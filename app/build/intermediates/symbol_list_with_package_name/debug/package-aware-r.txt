@@ -11,6 +11,7 @@ anim abc_slide_out_bottom
 anim abc_slide_out_top
 anim abc_tooltip_enter
 anim abc_tooltip_exit
+array jenis_kelamin
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
