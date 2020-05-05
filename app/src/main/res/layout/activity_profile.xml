@@ -162,16 +162,19 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/edit"
             android:layout_width="100sp"
             android:layout_height="match_parent"
             android:layout_margin="10sp"
             android:text="Edit Nama"/>
         <Button
-            android:layout_width="100sp"s
+            android:id="@+id/dial"
+            android:layout_width="100sp"
             android:layout_height="match_parent"
             android:layout_margin="10sp"
             android:text="Dial"/>
         <Button
+            android:id="@+id/about"
             android:layout_width="100sp"
             android:layout_height="match_parent"
             android:layout_margin="10sp"

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\SMKCODING\\SmkCoding1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hr\\values-hr.xml",
+            "outputFile": "C:\\smkcode\\SmkCoding1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hr\\values-hr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\ef2a06138383da6a8747eb2c28bc105e\\core-1.0.2\\res\\values-hr\\values-hr.xml",

@@ -629,6 +629,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable cloud
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -652,6 +653,7 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
+id about
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -683,6 +685,7 @@ id biodata
 id blocking
 id bottom
 id btnSimpan
+id btn_simpann
 id buttonPanel
 id center
 id center_horizontal
@@ -699,15 +702,18 @@ id custom
 id customPanel
 id decor_content_parent
 id default_activity_button
+id dial
 id dimensions
 id direct
 id disableHome
+id edit
 id edit_alamat
 id edit_email
 id edit_nama
 id edit_query
 id edit_telpon
 id edit_umur
+id edt_nama
 id end
 id expand_activities_button
 id expanded_menu
@@ -842,8 +848,10 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_edit
 layout activity_main
 layout activity_profile
+layout activity_splash
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -1059,6 +1067,7 @@ style Base_Widget_AppCompat_Spinner_Underlined
 style Base_Widget_AppCompat_TextView_SpinnerItem
 style Base_Widget_AppCompat_Toolbar
 style Base_Widget_AppCompat_Toolbar_Button_Navigation
+style Cloud
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_ThemeOverlay_AppCompat
