@@ -678,6 +678,7 @@ id always
 id async
 id barrier
 id beginning
+id bio
 id biodata
 id blocking
 id bottom

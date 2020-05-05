@@ -26,6 +26,7 @@
         android:layout_centerHorizontal="true"
         />
     <LinearLayout
+        android:id="@+id/bio"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
@@ -79,7 +80,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Jenis Kelamin"
+                android:text="Umur"
                 android:layout_weight="2"
                 />
             <TextView
@@ -87,7 +88,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Laki Laki"
+                android:text="17"
                 />
         </LinearLayout>
         <LinearLayout
@@ -150,8 +151,38 @@
         </LinearLayout>
 
 
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/bio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="100sp"
+            android:layout_height="match_parent"
+            android:layout_margin="10sp"
+            android:text="Edit Nama"/>
+        <Button
+            android:layout_width="100sp"s
+            android:layout_height="match_parent"
+            android:layout_margin="10sp"
+            android:text="Dial"/>
+        <Button
+            android:layout_width="100sp"
+            android:layout_height="match_parent"
+            android:layout_margin="10sp"
+            android:text="About"/>
+
     </LinearLayout>
 
 
-
 </RelativeLayout>
+
+
+
+
+
