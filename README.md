@@ -1,13 +1,13 @@
 # SmkCoding1
 +================================================================================+
-                             TUGAS 1 SMK CODING
+<center>TUGAS 1 SMK CODING</center>
 +================================================================================+
 
-1.INPUT DATA NAMA,JENIS KELAMIN,UMUR,EMAIL,TELPON,ALAMAT
-2.TAMPILAN DATA PADA HALAMAN PROFILE
-3.HALAMAT ABOUT
-4.SPLASH SCREEN
+<p>1.INPUT DATA NAMA,JENIS KELAMIN,UMUR,EMAIL,TELPON,ALAMAT</p>
+<p>2.TAMPILAN DATA PADA HALAMAN PROFILE</p>
+<p>3.HALAMAT ABOUT</p>
+<p>4.SPLASH SCREEN</p>
 
 +================================================================================+
-                           START PROJECT 4/5/2020
+                          <center> START PROJECT 4/5/2020</center>
 +================================================================================+
