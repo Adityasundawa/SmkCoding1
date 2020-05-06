@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AboutActivity">
-
     <TextView
         android:id="@+id/about"
         android:layout_alignParentStart="true"
@@ -14,15 +13,14 @@
         android:layout_height="wrap_content"
         android:text="About Me"
         android:layout_marginTop="10dp" />
-
     <ImageView
         android:layout_below="@id/about"
         android:id="@+id/fotoprofil"
         android:layout_width="137dp"
-        android:layout_height="144dp"
-        android:layout_marginLeft="20dp"
+        android:layout_height="137dp"
+        android:layout_marginLeft="5dp"
         android:layout_marginTop="40dp"
-        android:src="@drawable/person" />
+        android:src="@drawable/aditya" />
 
 
     <LinearLayout
