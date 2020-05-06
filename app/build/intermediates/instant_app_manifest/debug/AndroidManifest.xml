@@ -19,6 +19,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.adityasundawa.id.AboutActivity" />
         <activity
             android:name="com.adityasundawa.id.SplashActivity"
             android:theme="@style/Cloud" >
@@ -30,8 +31,7 @@
         </activity>
         <activity android:name="com.adityasundawa.id.EditActivity" />
         <activity android:name="com.adityasundawa.id.ProfileActivity" />
-        <activity android:name="com.adityasundawa.id.MainActivity" >
-        </activity>
+        <activity android:name="com.adityasundawa.id.MainActivity" />
     </application>
 
 </manifest>

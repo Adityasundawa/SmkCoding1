@@ -721,6 +721,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id forever
+id fotoprofil
 id gone
 id group_divider
 id groups
@@ -848,6 +849,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_about
 layout activity_edit
 layout activity_main
 layout activity_profile

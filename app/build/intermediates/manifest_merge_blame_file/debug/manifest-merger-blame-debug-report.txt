@@ -11,7 +11,7 @@
 9-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:5:5-23:19
+11-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:5:5-25:19
 12        android:allowBackup="true"
 12-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,33 +28,35 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity
-21-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:12:9-17:20
-22            android:name="com.adityasundawa.id.SplashActivity"
-22-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:12:19-49
-23            android:theme="@style/Cloud" >
-23-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:12:50-78
-24            <intent-filter>
-24-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:13:13-16:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:14:17-69
-25-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:14:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:15:17-77
-27-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:15:27-74
-28            </intent-filter>
-29        </activity>
-30        <activity android:name="com.adityasundawa.id.EditActivity" />
-30-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:18:9-50
-30-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:18:19-47
-31        <activity android:name="com.adityasundawa.id.ProfileActivity" />
-31-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:19:9-53
-31-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:19:19-50
-32        <activity android:name="com.adityasundawa.id.MainActivity" >
-32-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:20:9-22:20
-32-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:20:19-47
-33        </activity>
+21        <activity android:name="com.adityasundawa.id.AboutActivity" />
+21-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:12:9-60
+21-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:12:19-48
+22        <activity
+22-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:13:9-21:20
+23            android:name="com.adityasundawa.id.SplashActivity"
+23-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:14:13-43
+24            android:theme="@style/Cloud" >
+24-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:15:13-41
+25            <intent-filter>
+25-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.adityasundawa.id.EditActivity" />
+31-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:22:9-50
+31-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:22:19-47
+32        <activity android:name="com.adityasundawa.id.ProfileActivity" />
+32-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:23:9-53
+32-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:23:19-50
+33        <activity android:name="com.adityasundawa.id.MainActivity" />
+33-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:24:9-59
+33-->C:\smkcode\SmkCoding1\app\src\main\AndroidManifest.xml:24:19-47
 34    </application>
 35
 36</manifest>
